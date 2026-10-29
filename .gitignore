@@ -1,7 +1,6 @@
 venv/
-__pycache__/
-*.pyc
+.idea/
 .env
 *.db
+__pycache__/
 .pytest_cache/
-.coverage
